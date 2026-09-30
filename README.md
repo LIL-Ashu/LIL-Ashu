@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ashutosh-eta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-soni-2b23b51b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ashutoshsoni2826@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=LIL-Ashu&style=for-the-badge&color=3DA34C&label=Profile+Views" alt="Profile views" />
 </p>
 
@@ -49,11 +51,15 @@ I'm **Ashu**, a full-stack and AI engineer based in **Bengaluru, India**, with 4
 
 | Project | What it does | Stack |
 |---|---|---|
-| **🎓 [PlacePilot](https://github.com/LIL-Ashu)** | Multi-tenant campus placement SaaS for students, TPOs, HODs, principals and recruiters, with role-based access and bulk user onboarding. *People. Opportunities. Higher.* | Next.js · Supabase (Postgres, RLS, Auth) · Gemini |
-| **🛡️ [Patch Pro](https://github.com/LIL-Ashu)** | Upload a Maven `pom.xml` and get a full dependency tree plus a CVE vulnerability report for every scan. | Full-stack · Security tooling |
-| **🏗️ [Techno Industries](https://github.com/LIL-Ashu/Techno_Industries)** | Commercial website for a lift & elevator company, with a modern UI, 3D and parallax effects. | Web · 3D / Parallax |
-| **💻 [Code Editor](https://github.com/LIL-Ashu/codeEditor)** | A browser-based code editor. | HTML · CSS · JS |
-| **🎨 [Portfolio](https://github.com/LIL-Ashu/My_portfolio)** | My personal portfolio site. | HTML · CSS |
+| **🧠 [AI-Native Kafka Control Plane](https://ashutosh-eta.vercel.app/#projects)** | Multi-agent AI control plane for Apache Kafka — Observer, Advisor, Onboarding, Config and Security agents diagnose root causes and recommend evidence-backed fixes across Apache/Confluent/MSK/Strimzi clusters. | Multi-Agent AI · Apache Kafka · Model Gateway |
+| **🎙️ [Digital Human Voice Agent Platform](https://ashutosh-eta.vercel.app/#projects)** | Human-like voice agent with real-time emotion/sentiment detection, handling 200+ concurrent calls at sub-800ms latency. | Asterisk · FastAGI · STT/TTS · LLM · Node.js |
+| **🏦 [Appzillon Digital Banking Platform](https://xacbank.mn)** | Fund transfer, bill pay, limits and card management for 500,000+ users across 15+ banks — live on XacBank and Kina Bank. | React 18 · Node.js · Express · MySQL |
+| **🎓 [PlacePilot](https://tpo-managment.vercel.app/)** | Multi-tenant campus placement SaaS for students, TPOs, HODs, principals and recruiters, with role-based access and bulk user onboarding. *People. Opportunities. Higher.* | Next.js · Supabase (Postgres, RLS, Auth) · Gemini |
+| **🛡️ [Patch Pro](https://patchpro-fp7w.vercel.app/)** | Upload a Maven `pom.xml` and get a full dependency tree plus a severity-ranked CVE vulnerability report, saved as a timestamped snapshot. | Next.js · TypeScript · Node.js |
+| **🏗️ [Techno Industries](https://techno-industries.vercel.app/)** | Commercial website for a Ranchi-based lift & elevator company, with a premium 3D/parallax UI and a 9-category product catalog. | Next.js · Vercel |
+| **💻 [Code Editor](https://lil-ashu.github.io/codeEditor/)** | A browser-based code editor. | HTML · CSS · JS |
+| **🍳 [Recipe Finder](https://codepen.io/xuski/full/GRYwgbL)** | Type a dish, get the full recipe in one click. | JavaScript · CSS |
+| **🎨 [Portfolio](https://ashutosh-eta.vercel.app/)** | This site — my personal glassmorphism portfolio, with a Three.js particle hero. | HTML · CSS · Three.js |
 
 ---
 
@@ -79,7 +85,9 @@ I'm **Ashu**, a full-stack and AI engineer based in **Bengaluru, India**, with 4
 I'm always happy to talk about GenAI products, SaaS architecture, or interesting engineering problems.
 
 <p align="center">
+  <a href="https://ashutosh-eta.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ashutosh-soni-2b23b51b1/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ashutoshsoni2826@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
